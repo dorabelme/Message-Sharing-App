@@ -1,4 +1,4 @@
-[![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)]
+![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)
 
 # [Message Sharing App - Front End](https://message-sharing.herokuapp.com/)
 
