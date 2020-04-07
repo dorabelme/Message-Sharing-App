@@ -1,13 +1,13 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ed184cb6-6bde-41e2-a42d-a4cdaa5a546b/deploy-status)](https://app.netlify.com/sites/dorabelme/deploys)
+[![Heroku](https://message-sharing.herokuapp.com/?app=heroku-badge)]
 
-# Message Sharing App
+# [Message Sharing App - Front End](https://message-sharing.herokuapp.com/)
 
-Timer App built using vanilla Javascript.
+Message Sharing App using Base64 encoding.
 
 ## Short demo:
 
 <p align ="center">
-<img src="./timer.gif" alt="timer example">
+<img src="./message_sharing.gif" alt="message sharing app example">
 </p>
 
 ## Tech Stack
@@ -15,9 +15,10 @@ Timer App built using vanilla Javascript.
 -   JavaScript
 -   HTML5
 -   CSS3
--   Font Awesome
+-   Heroku
+-   Materialize
 
 ## Installation
 
-1. `git clone git@github.com:dorabelme/JS-Timer.git`
+1. `git clone git@github.com:dorabelme/Message-Sharing-App.git`
 2. Open `index.html` to access the site.
