@@ -1,0 +1,22 @@
+{
+    "name": "message-sharing-app",
+    "version": "1.0.0",
+    "description": "Message Sharing App",
+    "main": "index.js",
+    "dependencies": {
+        "prettier": "^1.19.1"
+    },
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dorabelme/Message-Sharing-App.git"
+    },
+    "author": "Dora Belme",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/dorabelme/Message-Sharing-App/issues"
+    },
+    "homepage": "https://github.com/dorabelme/Message-Sharing-App#readme"
+}
