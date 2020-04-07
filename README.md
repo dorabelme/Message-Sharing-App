@@ -1,6 +1,6 @@
 ![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)
 
-# [Message Sharing App - Front End](https://message-sharing.herokuapp.com/)
+# [Message Sharing App](https://message-sharing.herokuapp.com/)
 
 Message Sharing App using Base64 encoding.
 
