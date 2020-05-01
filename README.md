@@ -7,7 +7,7 @@ Message Sharing App using Base64 encoding.
 ## Short demo:
 
 <p align ="center">
-<img src="./message_sharing.gif" alt="message sharing app example">
+<img src="./message.gif" alt="message sharing app example">
 </p>
 
 ## Tech Stack
